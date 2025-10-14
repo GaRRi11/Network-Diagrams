@@ -1,4 +1,4 @@
-# Network-Diagrams
+## CGNAT
 
 
-<img width="920" height="1200" alt="cgnap" src="https://github.com/user-attachments/assets/adab3ea9-7dd7-4157-8c51-2b6e923ac7c6" />
+![cgnat 2](https://github.com/user-attachments/assets/212a6926-f34b-4979-85bd-3a00004910d2)
